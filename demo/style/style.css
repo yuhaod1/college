@@ -39,10 +39,10 @@ nav ul li a{
 }	
 /*正文*/
 article, #aside{
-	width:96%;
+	width:94%;
 	background:#fff;
 	padding:1%;
-	margin:1% auto 0;
+	margin:2% auto 0;
 }
 article h2,#aside h2{
 	line-height:50px;
