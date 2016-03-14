@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>任务一</title>
+   </head>
+   <body>
+　　　<header>
+         <h1>我的网页</h1>
+         <nav>
+            <ul>
+               <li>首页</li>
+               <li>新闻</li>
+               <li>体育</li>
+               <li>音乐</li>
+            </ul>
+         </nav>
+      </header>
+      <article>
+         <header>
+            <hgroup>
+               <h1>今日头条</h1>
+               <h2>国内新闻快报</h2>
+            </hgroup>  
+　　　　    <p>作者 <time datatime="2016-03-14">2016.03.14</time></p>　
+         </header>
+         <p>
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,<a href="http://www.baidu.com/" target="_blank">链接到百度</a>
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+　　　　 </p>　　　　　 
+      </article>
+　　　<article>
+         <header>
+            <hgroup>
+               <h1>体育频道</h1>
+               <h2>足球赛事</h2>
+            </hgroup>  
+　　　　    <p>作者 <time datatime="2016-03-14">2016.03.14</time></p>　
+         </header>
+　　　　 <p>
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,<a href="http://www.baidu.com/">链接到百度</a>
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+            这是文章的段落内容,这是文章的段落内容,这是文章的段落内容.
+　　　　 </p>
+         <img src="01.jpg" alt="01" />
+         <ul>
+            <li>赛事安排</li>
+            <li>精彩视频</li>
+            <li>专家点评</li>
+         </ul>
+　　　　 <section>
+            <h3>精彩瞬间</h3>
+　　　　　　<div>
+               <p>hot</p>
+               <img src="02.jpg" alt="02" /> 
+            </div>
+            <div>
+               <p>hot</p>
+               <img src="02.jpg" alt="02" /> 
+            </div>
+            <div>
+               <p>hot</p>
+               <img src="02.jpg" alt="02" /> 
+            </div>
+            <div>
+               <p>hot</p>
+               <img src="02.jpg" alt="02" /> 
+            </div>
+            <div>
+               <p>hot</p>
+               <img src="02.jpg" alt="02" /> 
+            </div>
+            <div>
+               <p>hot</p>
+               <img src="02.jpg" alt="02" /> 
+            </div>
+            <div>
+               <p>hot</p>
+               <img src="02.jpg" alt="02" /> 
+            </div>
+         </section>
+      </article>
+      <article>
+         <header>
+            <hgroup>
+               <h1>音乐频道</h1>
+               <h2>华语排行</h2>
+            </hgroup>  
+　　　　    <p>作者 <time datatime="2016-03-14">2016.03.14</time></p>　
+         </header> 
+　　　　 <div>
+            <ol> 
+               <li>歌曲一</li>
+               <li>歌曲二</li>
+               <li>歌曲三</li>
+            </ol>
+         </div>
+　　　　 <table border="1">
+            <thead>
+                <tr>
+                   <th>表头</th>
+                   <th>表头</th>
+                   <th>表头</th>
+                </tr>
+            <thead>
+　　　　　　<tbody>
+                <tr>
+                   <td>单元格</td>
+                   <td>单元格</td>
+                   <td><a href="#">操作</a></td>
+                </tr>
+　　　　　　　　<tr>
+                   <td>单元格</td>
+                   <td>单元格</td>
+                   <td><a href="#">操作</a></td>
+                </tr>
+　　　　　　　　<tr>
+                   <td>单元格</td>
+                   <td>单元格</td>
+                   <td><a href="#">操作</a></td>
+                </tr>
+　　　　　　　　<tr>
+                   <td>单元格</td>
+                   <td>单元格</td>
+                   <td><a href="#">操作</a></td>
+                </tr>
+            <tbody>
+　　　　　　<tfoot>
+                <tr>
+                   <td>总计</td>
+                   <td colspan="2">0000</td>
+                </tr>
+            <tfoot>
+         </table>
+      </article>
+      <div id="aside">
+            <h2>加入我们</h2>
+            <h3>填写注册信息</h3>
+　　　　　　<form action="#" method="get">
+            请输入邮箱地址：<input id="email" type="email" /><br/>
+            <em>请按要求输入邮箱地址</em><br/>
+            请输入密码：<input id="pass" type="password" />
+            请再次输入：<input id="pass2" type="password" /><br/>
+            <em>密码请为6-16位英文数字</em><br/>
+            性别：<label><input type="radio" name="sex" id="male" />男</label >
+                  <label ><input type="radio" name="sex" id="famale"/>女</label >
+            城市：<select>
+                     <option value="bj">北京</option>
+                     <option value="sh">上海</option>
+                     <option value="gz">广州</option>
+                     <option value="sz">深圳</option>  
+                  </select>
+            爱好：<label><input type="checkbox" name="hobby" value="sport" />运动</label>
+                  <label><input type="checkbox" name="hobby" value="atr" />艺术</label>
+                  <label><input type="checkbox" name="hobby" value="science" />科学</label><br/>
+            个人描述：
+                  <textarea cols="40" rows="10" placeholder="请输入你的个人描述"></textarea>
+                  <input type="submit" value="确认提交" />
+           </form>
+      </div>
+      <foot>
+           版权信息
+      </foot>
+   </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
