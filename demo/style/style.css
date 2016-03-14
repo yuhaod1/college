@@ -1,0 +1,151 @@
+/* CSS Document */
+body,ul,dl,dt,dd,p,h1,h2,h3,h4,input,table,th,td,select{margin:0;padding:0;}
+body{font:12px/1.5 dahoma;background:#CCC;}
+ul{list-style:none;}
+a{text-decoration:none;}
+a:hover{text-decoration:underline;}
+.clearfix:before, .clearfix:after{content:""; display:table;}
+.clearfix:after{clear:both;}
+.author{text-indent:0;color:#ccc;}
+
+
+/*头部*/
+header{
+	width:98%;
+	height:100px;
+	padding:0 1%;
+	background:#000;
+}
+h1{
+	float:left;
+	height:100px;
+	line-height:100px;
+	font-size:30px;
+	color:#fff;
+}
+nav{
+	float:right;
+}
+nav ul{
+	padding-top:36px;
+}	
+nav ul li{
+	float:left;
+	margin-right:15px;
+}	
+nav ul li a{
+	font-size:20px;
+	color:#fff;
+}	
+/*正文*/
+article, #aside{
+	width:96%;
+	background:#fff;
+	padding:1%;
+	margin:1% auto 0;
+}
+article h2,#aside h2{
+	line-height:50px;
+	font-size:36px;
+}	
+article h3{
+	line-height:40px;
+	font-size:28px;
+}	
+article p{
+	line-height:24px;
+	text-indent:2em;
+}
+/*正文－文章三*/		
+article .pic{
+	width:480px;
+	height:440px;
+	padding:0 20px 20px 20px;
+	margin-top:20px;
+	box-shadow:2px 2px 10px #999;
+}
+article .pic dd{
+	text-align:center;
+}	
+article .pic dd p{
+	height:80px;
+	line-height:80px;
+	font-size:30px;
+	font-weight:500;
+}	
+article .pic dd img{
+    width:480px;
+	height:360px;
+}	
+/*正文－文章四*/
+article .hot{
+	font-weight:bold;
+}
+article .hot a{
+	color:#000;
+}		
+article	table{
+	width:98%;
+	text-align:left;
+	border-collapse:collapse;
+}
+article	table th{
+	background:#000;
+	color:#fff;
+}
+/*侧栏*/
+#aside h2{
+	border-left:1px solid #999;
+	padding-left:30px;
+	margin-bottom:20px;
+}
+#aside .form_wrap{
+	margin-left:400px;
+}	
+#aside .form_wrap .input_wrap{
+	margin-bottom:10px;
+}	
+#aside .form_wrap  span{
+	display:inline-block;
+	width:200px;
+	text-align:right;
+}
+#aside .form_wrap .top{
+	vertical-align:top;
+}
+#aside .form_wrap input{
+	margin-top:12px;
+}
+#aside .form_wrap p{
+	color:#999;
+	padding-left:210px;
+}
+#aside .submit_btn{
+	width:100%;
+	height:40px;
+	line-height:40px;
+	background:#0066FF;
+	texe-align:center;
+	color:#fff;
+	outline:none;
+	border:none;
+	border-radius:10px;
+	cursor:pointer;
+}
+footer{
+	width:100%;
+	height:100px;
+	margin-gop:20px;
+	background:#000;
+	color:#fff;
+	text-align:center;
+}
+footer p{
+	height:50px;
+	line-height:50px;
+}
+
+
+
+
+
