@@ -39,10 +39,10 @@ nav ul li a{
 }	
 /*ÕýÎÄ*/
 article, #aside{
-	width:96%;
+	width:94%;
 	background:#fff;
 	padding:1%;
-	margin:1% auto 0;
+	margin:2% auto 0;
 }
 article h2,#aside h2{
 	line-height:50px;
@@ -85,13 +85,16 @@ article .hot a{
 	color:#000;
 }		
 article	table{
-	width:98%;
+	width:100%;
 	text-align:left;
 	border-collapse:collapse;
 }
 article	table th{
 	background:#000;
 	color:#fff;
+}
+article	table th,article table td{
+	padding:5px 0 5px 20px;
 }
 /*²àÀ¸*/
 #aside h2{
@@ -100,14 +103,16 @@ article	table th{
 	margin-bottom:20px;
 }
 #aside .form_wrap{
-	margin-left:400px;
+	width:80%;
+	margin-left:20%;
 }	
 #aside .form_wrap .input_wrap{
+	width:100%;
 	margin-bottom:10px;
 }	
 #aside .form_wrap  span{
 	display:inline-block;
-	width:200px;
+	width:10%;
 	text-align:right;
 }
 #aside .form_wrap .top{
@@ -118,7 +123,7 @@ article	table th{
 }
 #aside .form_wrap p{
 	color:#999;
-	padding-left:210px;
+	padding-left:11%;
 }
 #aside .submit_btn{
 	width:100%;

@@ -1,0 +1,70 @@
+/* CSS Document */
+body,p{margin:0;padding:0;}
+body{padding:20px;}
+#wrap, .left, .right, .middle{
+	padding:20px;
+	box-sizing:border-box;
+	border:1px solid #999;
+}
+
+.clearfix:before, .clearfix:after{content:''; display:table;}
+.clearfix:after{clear:both;}
+
+#wrap{
+	font:12px/1.5 Microsoft YaHei,Î¢ÈíÑÅºÚ ;
+	background:#eee;
+	position:relative;
+}
+#wrap img{
+	display:block;
+	width:80px;
+	height:80px;
+	border:none;
+}
+.left, .right, .middle{
+	background:#fff;
+}
+.left{
+	width:200px;
+	float:left;
+}
+.left img{
+	float:left;
+	margin-right:10px;
+}
+.left p{
+	float:left;
+}
+.right{
+	width:120px;
+	float:right;
+}
+.right img{
+	margin-top:20px;
+}
+.right .first{
+	margin-top:0;
+}
+.middle{
+	margin:0 140px 0 220px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
